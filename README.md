@@ -1,6 +1,6 @@
 # Beginner
 The New Quantum Programming Basics.
-install Qiskit by the command pip install qiskit.
+Install Qiskit by the command pip install qiskit.
 Go To "https://www.ibm.com/in-en"
 create a ibmid account in IBM official Page
 Then Log in to "https://quantum-computing.ibm.com" the official IBM Q Experience website
