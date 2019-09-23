@@ -11,10 +11,8 @@ Use the ibmid to log in
 Then in right corner you find a button for your Account
 Click that button and go to My Accounts
 In My Account a unique token is generated 
-Copy that token and paste in the code in the place of "MY_API_TOKEN"
-Code follows
+Copy that token and paste in the file Qiskit_API_Token.py in the place of "MY_API_TOKEN"
 
-from qiskit import IBMQ
-IBMQ.save_account('MY_API_TOKEN')
+Run the Qiskit_API_Token.py
 
-Run this Program before you code in qiskit
+Thus, your account is saved in youe system
